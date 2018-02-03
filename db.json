@@ -87,6 +87,20 @@
           "LastResponse": "2017-01-03T00:00:00.000",
           "customerId": 3000016
       },
+    {
+          "id": 3213136,
+          "TicketNumber": "G123657",
+          "TicketStatus": "Open",
+          "TicketPriority": "High",
+          "Department": "Support",
+          "HelpTopic": "Troubleshooting",
+          "AssignedTo": "Tim Dinh",
+          "CreatedDate": "2016-12-31T00:00:00.000",
+          "DueDate": "2017-01-03T00:00:00.000",
+          "LastMessage": "2017-01-03T00:00:00.000",
+          "LastResponse": "2017-01-03T00:00:00.000",
+          "customerId": 3000016
+      },
       {
           "id": 3213122,
           "TicketNumber": "G922324",
