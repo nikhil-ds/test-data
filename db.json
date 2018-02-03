@@ -38,38 +38,6 @@
         "StreetType": "Grove",
         "StreetNameSuffix": null
       }
-    },
-    {
-      "id": 3000015,
-      "FirstName": "A",
-      "LastName": "N",
-      "OtherName": null,
-      "DateOfBirth": null,
-      "Phone": "61450159215",
-      "Email": "andrewjoseph.noble@gmail.com",
-      "PhonePin": null,
-      "AccountBalance": null,
-      "LastModified": null,
-      "OpenDate": null,
-      "ClosedDate": null,
-      "Status": null,
-      "PostalAddress": {
-        "SubAddressType": null,
-        "SubAddressNumber": null,
-        "StreetNumber1": "11",
-        "StreetNumber2": "",
-        "StreetName": "Ilma",
-        "Suburb": "Northcote",
-        "StateCode": "VIC",
-        "Postcode": "3070",
-        "Country": "Australia",
-        "Lot": null,
-        "Level": null,
-        "StreetNumberSuffix": null,
-        "StreetType": "Grove",
-        "StreetNameSuffix": null
-      }
     }
-  ],
-
+  ]
 }
