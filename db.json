@@ -73,10 +73,9 @@
     }
   ],
   "tickets": [
+    "id": ,
+    "Tickets": [
     {
-      "id": "andrewjoseph.noble@gmail.com",
-      "Tickets": [
-        {
           "TicketId": "3213132",
           "TicketNumber": "G123657",
           "TicketStatus": "Open",
@@ -89,8 +88,7 @@
           "LastMessage": "2017-01-03T00:00:00.000",
           "LastResponse": "2017-01-03T00:00:00.000",
           "customerId": 3000016
-        }
-      ]
     }
-   ]
+  ]
+  ]
 }
