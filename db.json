@@ -75,6 +75,8 @@
   "tickets": [
       {
           "id": 3213132,
+          "Phone": "61450159215",
+          "Email": "andrewjoseph.noble@gmail.com",
           "TicketNumber": "G123657",
           "TicketStatus": "Open",
           "TicketPriority": "High",
@@ -89,6 +91,8 @@
       },
     {
           "id": 3213136,
+          "Phone": "61450159215",
+          "Email": "andrewjoseph.noble@gmail.com",
           "TicketNumber": "G123657",
           "TicketStatus": "Open",
           "TicketPriority": "High",
@@ -103,6 +107,8 @@
       },
       {
           "id": 3213122,
+          "Phone": "61450159215",
+          "Email": "andrewjoseph.noble@gmail.com",
           "TicketNumber": "G922324",
           "TicketStatus": "Closed",
           "TicketPriority": "Medium",
@@ -117,8 +123,10 @@
       },
       {
           "id": 3213190,
+          "Phone": "61450159215",
+          "Email": "andrewjo.seph.noble@gmail.com",
           "TicketNumber": "G922322",
-          "TicketStatus": "Closed",
+          "TicketStatus": "Open",
           "TicketPriority": "Medium",
           "Department": "Support",
           "HelpTopic": "Troubleshooting",
@@ -127,10 +135,12 @@
           "DueDate": "2017-01-03T00:00:00.000",
           "LastMessage": "2017-01-03T00:00:00.000",
           "LastResponse": "2017-01-03T00:00:00.000",
-          "customerId": 3000015
+          "customerId": 3000018
       },
       {
           "id": 3213194,
+          "Phone": "61450159215",
+          "Email": "andrewjo.seph.noble@gmail.com",
           "TicketNumber": "G922322",
           "TicketStatus": "Closed",
           "TicketPriority": "Medium",
@@ -141,7 +151,7 @@
           "DueDate": "2017-01-03T00:00:00.000",
           "LastMessage": "2017-01-03T00:00:00.000",
           "LastResponse": "2017-01-03T00:00:00.000",
-          "customerId": 3000015
+          "customerId": 3000018
       }
       
     ]
